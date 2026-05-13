@@ -50,22 +50,14 @@ git clone https://github.com/your-username/semantic-search-engine.git
 cd semantic-search-engine
 ```
 
----
+#  Recommended Environment
 
-##  Install Dependencies
+This project is developed as a `.ipynb` notebook file.
 
-```bash
-pip install -r requirements.txt
-```
+Recommended platforms:
 
----
-
-# Run the Project
-
-```bash
-semantic_search.ipynb
-```
-
+- Google Colab
+- Jupyter Notebook
 ---
 
 #  Requirements
@@ -106,8 +98,3 @@ Top Results:
 ```
 
 ---
-
-
-# 👨‍💻 Author
-
-Developed as part of Python AI Training Program.
